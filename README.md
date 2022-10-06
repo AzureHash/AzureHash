@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AzureHash
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning Economics, Biology, Physics, Math Methods, Specalists Math and English
+- 🌱 I’m currently learning Economics, Biology, Physics, Math Methods, Specalists Math and English (in high school)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Email
 
